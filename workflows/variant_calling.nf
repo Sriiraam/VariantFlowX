@@ -1,0 +1,4 @@
+
+workflow VARIANT_CALLING {
+
+}
