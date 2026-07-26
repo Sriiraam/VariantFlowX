@@ -110,3 +110,33 @@ conda-meta/
 
 *.bak
 *.old
+
+
+# Alignment files
+*.bam
+*.bai
+*.cram
+*.crai
+*.sam
+
+# Variant files
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.g.vcf
+*.g.vcf.gz
+*.g.vcf.gz.tbi
+
+# Metrics
+*.metrics
+*.recal
+*.table
+
+# Coverage
+*.bed
+*.bedgraph
+*.wig
+*.bw
+
+# QC
+multiqc_data/
